@@ -1,0 +1,3 @@
+*.swp
+./cpuid
+./cpuid.o
